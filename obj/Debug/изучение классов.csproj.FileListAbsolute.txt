@@ -1,0 +1,14 @@
+C:\Users\KAB6-4\Desktop\изучение классов\bin\Debug\изучение классов.exe.config
+C:\Users\KAB6-4\Desktop\изучение классов\bin\Debug\изучение классов.exe
+C:\Users\KAB6-4\Desktop\изучение классов\bin\Debug\изучение классов.pdb
+C:\Users\KAB6-4\Desktop\изучение классов\obj\Debug\изучение классов.csprojAssemblyReference.cache
+C:\Users\KAB6-4\Desktop\изучение классов\obj\Debug\изучение классов.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-4\Desktop\изучение классов\obj\Debug\изучение классов.exe
+C:\Users\KAB6-4\Desktop\изучение классов\obj\Debug\изучение классов.pdb
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\bin\Debug\изучение классов.exe.config
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\bin\Debug\изучение классов.exe
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\bin\Debug\изучение классов.pdb
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\obj\Debug\изучение классов.csprojAssemblyReference.cache
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\obj\Debug\изучение классов.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\obj\Debug\изучение классов.exe
+C:\Users\KAB6-5\Desktop\rkfc\изучение классов\obj\Debug\изучение классов.pdb
